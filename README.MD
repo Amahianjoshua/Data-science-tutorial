@@ -1,1 +1,1 @@
-# Data Scienct tutorial
+# Data Science tutorial
